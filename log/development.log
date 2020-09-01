@@ -870,3 +870,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 71.197.15.109 at 2020-09-01 16:15:17 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
